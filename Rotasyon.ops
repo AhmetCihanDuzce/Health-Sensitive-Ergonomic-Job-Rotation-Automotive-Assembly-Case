@@ -2,7 +2,6 @@
 
 <settings version="2">
   <category name="run">
-    <setting name="run_engineexportextension" value="lp"/>
-    <setting name="run_exportexternaldata" value="C:\Users\Oda421\OneDrive - duzce.edu.tr\Belgeler\OPL Studio\Workspace\Rotasyon\Rotasyon.lp"/>
+    <setting name="run_exportexternaldata" value="Rotasyon.lp"/>
   </category>
 </settings>
