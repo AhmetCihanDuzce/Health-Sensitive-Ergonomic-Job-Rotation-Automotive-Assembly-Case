@@ -1,8 +1,8 @@
-# Health-Sensitive-Ergonomic-Job-Rotation-Automotive-Assembly-Case
+# Ergonomic Job Rotation
 
 ## Overview
 
-This repository presents a **bi-objective lexicographic optimization model** for the Health-Sensitive Ergonomic Job Rotation Problem.
+This repository presents a **bi-objective lexicographic optimization model** for the Ergonomic Job Rotation Problem.
 
 The mathematical model is implemented using **IBM ILOG CPLEX Optimization Programming Language (OPL)** and is intended to be executed in **IBM ILOG CPLEX Optimization Studio**.
 
@@ -84,8 +84,6 @@ The model can be extended or customized by:
 ---
 
 ## Citation
-
-If this repository contributes to your research, please cite the associated publication once available.
 
 ```text
 Citation information will be added after publication.
